@@ -4,7 +4,7 @@ Game topdown klasik tentang menjatuhkan zombie. Zombie mengejar player dan playe
 Style game nya adalah pixelated.
 
 ### Map
-Gridmap topdown. 64x64. Ada collission. Juga digunakan untuk pathfinding.
+Tilemap topdown. 64x64. Ada collission. Juga digunakan untuk pathfinding.
 
 ### Player
 Tidak memiliki animasi. Kamera tepat diatas player. Punya stats (Speed). Bisa bergerak 8 arah menggunakan bind WASD, dan bisa menembak pistol dengan bind Left Mouse Button. Bisa mati
