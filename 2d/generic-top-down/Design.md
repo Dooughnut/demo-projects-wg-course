@@ -1,7 +1,6 @@
 ## High Level Design
 ### Premise
 Game topdown klasik tentang menjatuhkan zombie. Zombie mengejar player dan player menghindari serangan zombie sambil menembak.
-POV Game adalah topdown, dan kamera terkunci ke player saat gameplay.
 Style game nya adalah pixelated.
 
 ### Map
