@@ -7,7 +7,7 @@ Style game nya adalah pixelated.
 Tilemap topdown. 64x64. Ada collission. Juga digunakan untuk pathfinding.
 
 ### Player
-Tidak memiliki animasi. Kamera tepat diatas player. Punya stats (Speed). Bisa bergerak 8 arah menggunakan bind WASD, dan bisa menembak pistol dengan bind Left Mouse Button. Bisa mati
+Tidak memiliki animasi. Kamera tepat diatas player. Punya stats (HP, Speed). Bisa bergerak 8 arah menggunakan bind WASD, dan bisa menembak pistol dengan bind Left Mouse Button. Bisa mati
 
 Ketika pistol ditembakan, sebuah object peluru akan spawn dan secara otomatis bergerak ke arah cursor. Pistol memiliki peluru tak terbatas.
 
